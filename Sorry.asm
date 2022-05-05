@@ -1,3 +1,5 @@
+; to be continued
+
 section .data                           
    startMsg db 'Did I eat your souvlaki (y/n):' 
    lenstartMsg equ $-startMsg
