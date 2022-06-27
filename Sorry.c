@@ -3,7 +3,7 @@
 int main() {
     char UsrIn[3];
     printf("Did I eat your souvlaki (y/n):");
-    scanf("%s", UsrIn);
+    scanf("%c", UsrIn);
     if(UsrIn == "y")
     {
         printf("I am terribly sorry");
